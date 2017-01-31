@@ -16,7 +16,7 @@ var server = http.createServer(function(req, res) {
     var fileUrl = req.url;
 
     if(req.url == '/') fileUrl = '/index.html';
-    else fileUrl = req.url;
+      else fileUrl = req.url;
 
     var filePath = path.resolve('./public'+fileUrl);
     var fileExt = path.extname(filePath);
