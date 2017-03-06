@@ -11,8 +11,7 @@ MongoClient.connect(url, function (err, db) {
     assert.equal(null, err);
     console.log("Connected correctly to server");
 
-    dboper.insertDocument(db, { name: "Vadonut", description: "Test" },
-        "dishes", function (result) {
+    dboper.insertDocument(db, { name: "Vadonut", description: "Test" }, "dishes", function (result) {
             console.log(result.ops);
 
             dboper.findDocuments(db, "dishes", function (docs) {

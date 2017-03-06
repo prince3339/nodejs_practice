@@ -42,8 +42,7 @@ exports.updateDocument = function(db, document, update, collection, callback) {
   var coll = db.collection(collection);
 
   // Update document
-  coll.updateOne(document
-    , { $set: update }, null, function(err, result) {
+  coll.updateOne(document, { $set: update }, null, function(err, result) {
 
     assert.equal(err, null);
     console.log("Updated the document with " + update);
