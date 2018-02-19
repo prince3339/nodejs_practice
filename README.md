@@ -53,8 +53,8 @@ Others:
     - [ ] Redux
     - [ ] Relay
 - [x] Angular
-    - [ ] Angular 1
-    - [ ] Angular 2
+    - [x] Angular 1
+    - [x] Angular 2
 - [ ] Ember
 - [ ] Backbone
 - [ ] Elm
@@ -222,17 +222,17 @@ Others:
 
 ### What are the specific kind of work you wish to pursue in LINE?
 
-<Your response>
+<Basically my responsibilities will be developing the front-end of scalable application. I wish to work in this field with talented engineers. But I wish to take part in full stack development. I'm open to learn new technologies and work in that stack.>
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
-<Frequently used app>
+<Most frequently used app 'youtube' android app>
 
-<In the last 1 year I haved learned ->
+<In the last 1 year I haved learned many things like team management, enrich teaching skill to junior juniors, developed interpersonal skills. And I'm very keen to know about new technology trends. Learned new css rules, es6 features typescript etc. ->
 
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
-<Your response>
+<Recently>
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
