@@ -8,9 +8,9 @@ Practicing NodeJs
 
 # Applicant
 
-- Name:
-- Date:
-- Preferred work location:    
+- Name: Sabbir Ahmed Siddiquee  
+- Date: 19-02-2018
+- Preferred work location: Fukuoka office   
 ※ Please choose one (Tokyo office/ Fukuoka office/ Kyoto office) 
 ※ All of the positions in Tokyo office are required Japanese skills equivalent to JLPT Level 2 or above.
 ※ Applicant who choose Tokyo Office, please provide your Japanese certificate or any proof of your Japanese skills, non-Japanese speaking candidate please select Fukuoka or Kyoto Office.
@@ -33,12 +33,12 @@ If you wish to add to the list, or your choice of programming is not in the list
 
 ### Language
 
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] C/C++
 - [ ] Java
 - [ ] Ruby
 - [ ] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Scala
 - [ ] Clojure
 - [ ] Swift
@@ -52,7 +52,7 @@ Others:
 - [ ] React
     - [ ] Redux
     - [ ] Relay
-- [ ] Angular
+- [x] Angular
     - [ ] Angular 1
     - [ ] Angular 2
 - [ ] Ember
@@ -63,7 +63,7 @@ Others:
 
 ### Typed JavaScript & JS Compiler
 
-- [ ] TypeScript
+- [x] TypeScript
 - [ ] Flow
 - [ ] Babel
 - [ ] CoffeeScript
@@ -73,7 +73,7 @@ Others:
 ### Testing
 
 - [ ] Mocha
-- [ ] Jasmine
+- [x] Jasmine
 - [ ] Enzyme
 - [ ] Jest
 - [ ] Ava
@@ -84,8 +84,8 @@ Others:
 
 ### CSS Compilers
 
-- [ ] Sass/Scss
-- [ ] Less
+- [x] Sass/Scss
+- [x] Less
 - [ ] CSS Modules
 - [ ] Styled Components
 
@@ -93,11 +93,11 @@ Others:
 
 ### Build Tools
 
-- [ ] Webpack
+- [x] Webpack
 - [ ] Browserify
 - [ ] Rollup
 - [ ] Gulp
-- [ ] Grunt
+- [x] Grunt
 - [ ] Closure
 
 Others:
@@ -113,17 +113,17 @@ Others:
 
 - [ ] Spring
 - [ ] Ruby on Rails
-- [ ] Express
-- [ ] Firebase
+- [x] Express
+- [x] Firebase
 - [ ] GraphQL
 
 Others:
 
 ### Database
 
-- [ ] MySQL
+- [x] MySQL
 - [ ] PostgreSQL
-- [ ] Mongo
+- [x] Mongo
 - [ ] Redis
 - [ ] Amazon Aurora
 
@@ -138,8 +138,8 @@ Others:
 
 ### OS
 
-- [ ] macOS
-- [ ] Windows
+- [x] macOS
+- [x] Windows
 - [ ] Linux (Red Hat family)
 - [ ] Linux (Debian family)
 - [ ] Linux (Etc)
@@ -149,7 +149,7 @@ Others:
 ### Web Server
 
 - [ ] NGINX
-- [ ] Apache
+- [x] Apache
 
 Others:
 
@@ -157,9 +157,9 @@ Others:
 
 - [ ] Vim
 - [ ] Emacs
-- [ ] VS Code
+- [x] VS Code
 - [ ] Sublime Text
-- [ ] Atom
+- [x] Atom
 - [ ] IntelliJ IDEA
 
 Others:
@@ -171,13 +171,13 @@ Others:
 - [ ] XDE
 - [ ] LucidChart
 
-Others:
+Others: creately.com
 
 ### SCM
 
 - [ ] CVS
 - [ ] Subversion
-- [ ] Git
+- [x] Git
 - [ ] Mercurial
 - [ ] Perforce
 
@@ -193,26 +193,26 @@ Others:
 
 ### Issue Tracker
 
-- [ ] JIRA
+- [x] JIRA
 - [ ] Redmine
 - [ ] Bugzilla
-- [ ] Trello
+- [x] Trello
 
 Others:
 
 ### Agile Process
 
-- [ ] Scrum
+- [x] Scrum
 - [ ] XP
-- [ ] Kanban
+- [x] Kanban
 
 Others:
 
 ### Social Coding & Code Review
 
-- [ ] GitHub
-- [ ] Bitbucket
-- [ ] GitLab
+- [x] GitHub
+- [x] Bitbucket
+- [x] GitLab
 - [ ] Stash
 - [ ] Crucible/FishEye
 
