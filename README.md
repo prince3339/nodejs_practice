@@ -222,26 +222,37 @@ Others:
 
 ### What are the specific kind of work you wish to pursue in LINE?
 
-<Basically my responsibilities will be developing the front-end of scalable application. I wish to work in this field with talented engineers. But I wish to take part in full stack development. I'm open to learn new technologies and work in that stack.>
+<Your response>  
+Basically my responsibilities will be developing the front-end of scalable application. I wish to work in this field with talented engineers. But I wish to take part in full stack development. I'm open to learn new technologies and work in that stack.
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
-<Most frequently used app 'youtube' android app>
+<Your response>  
+Most frequently used app 'youtube' android app.
 
-<In the last 1 year I haved learned many things like team management, enrich teaching skill to junior juniors, developed interpersonal skills. And I'm very keen to know about new technology trends. Learned new css rules, es6 features typescript etc. ->
+In the last 1 year I haved learned many things like team management, enrich teaching skill to junior juniors, developed interpersonal skills. And I'm very keen to know about new technology trends. Learned new css rules, es6 features typescript etc.
 
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
-<Recently>
+<Your response>
+Recently I got interested in google's "Progressive Web App" concept. Some reasons behind this are: 
+
+    *Offers Native like mobile app.
+    *Easiest way to develop mobile app
+    *Hasle free installation
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
 <Your response>
+    Among many projects I mostly proud of a Insurance Company Portal. Their business logic is very complex.
+    In this project I worked as front-end UI development lead as well as took part in javascript api integration and resuable component     development. Front end technologies are used: AngularJs, angular material, sass, css, html etc. 
+    The portal is by the Insurance company partners, customers, managers all over the world. There were challenges like cross browsers  support where as angular material it self has several issues in Internet Explorer and Safarii browsers. I have to find css/js hacks to overcome those issues.
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
 <Your Response>
-
+https://github.com/prince3339/
+    
 ### Public URL (blog, Twitter., etc)
 
 <Your Response>
@@ -249,5 +260,6 @@ Others:
 ### What are the names of the technical writings (book and articles) that had the most profound impact on you? (list upto 3, if you have any)
 
 <Your Response>
+    https://github.com/getify/You-Dont-Know-JS
 
 # Thank you for your participation.
